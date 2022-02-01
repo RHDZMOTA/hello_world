@@ -4,11 +4,16 @@ This is a simple hello-world application in python.
 
 ## Installation
 
-0. Clone the repository:
+0. Clone the repository and change to the class branch:
 
 ```commandline
 $ git clone git@github.com:RHDZMOTA/hello_world.git
 ```
+
+```commandline
+$ git checkout 2022-A-DE
+```
+
 
 1. Create a virtualenv with python or via PyCharm:
     * Python: `python -m  virtualenv venv`
