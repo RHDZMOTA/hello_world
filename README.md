@@ -21,7 +21,7 @@ $ git checkout 2022-A-DE
 
 2. Activate virtual environment:
    * Linux/MacOS: `source venv/bin/activate`
-   * Windows: `source venv/Script/activate`
+   * Windows: `source venv/Scripts/activate`
    
 3. Install requirements:
 
