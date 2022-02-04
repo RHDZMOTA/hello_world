@@ -12,3 +12,13 @@
 3. Install dependencies:
    * In terminal: `pip install -r requirements.txt`
    
+## Usage
+
+### CMD: run
+
+This command calls the `hello` function from the terminal. Usage example:
+
+```commandline
+$ python -m hello_world_module run --name test
+```
+
